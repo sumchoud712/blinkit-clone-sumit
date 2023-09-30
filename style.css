@@ -130,6 +130,13 @@
   width: 35%;
 }
 
+.row-3 > p {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: center;
+}
+
 .download-section > p {
   color: #666666;
   font-weight: 600;
